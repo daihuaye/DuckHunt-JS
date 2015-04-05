@@ -5,10 +5,11 @@ http://mattsurabian.com/duckhunt
 This is an implementation of DuckHunt in javascript using HTML5 audio.
 
 This project uses the following JS Libraries:
-    jquery
-        jquery.color
-        jquery.spritely
-    underscore
+
+    -jquery
+      -jquery.color
+      -jquery.spritely
+    -underscore
 
 All of the game logic is in the duckhunt directory.  This project uses grunt to build two concatenated js files;
 one representing all of our game logic the other representing necessary javascript library dependencies.
